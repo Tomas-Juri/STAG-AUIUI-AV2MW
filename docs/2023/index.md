@@ -15,4 +15,35 @@ nav_order: 1
 
 ---
 
-## 1. Lekce - 10.02.2023
+## ES 2015 a pokročilý javaascript
+
+## NodeJS, Git
+
+## Úvod do reactu, komponenty
+
+## Class vs functional components
+
+## React hooks
+
+## Přepsání class komponent do funkcionálních
+
+// TODO nahradit necim jinym
+
+## Routing v reactu
+
+## Rozvoj aplikace o další funkcionalitu
+
+// WTF is this ?
+
+## Napojení na API (Fetch API, Axios, React query)
+
+## Deployment aplikace
+
+## Pokročílá témata
+
+### Statické weby pomocí GatsbyJS
+### Redux, Saga, Context API
+### Progressive Web Apps
+### Accessibility
+### SEO
+
