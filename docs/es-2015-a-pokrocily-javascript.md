@@ -1,10 +1,10 @@
 ---
-title: "2023"
+title: "ES 2015 a pokročilý Javascript"
 layout: home
 nav_order: 1
 ---
 
-# STAG-AUIUI-AV2MW 2023
+# ES 2015 a pokročilý Javascript
 {: .no_toc }
 
 ## Table of contents
@@ -15,35 +15,13 @@ nav_order: 1
 
 ---
 
-## ES 2015 a pokročilý Javascript
+## Lorem
 
-## NodeJS, Typescript, Git
+## Ipsum
 
-## Úvod do reactu, komponenty
+## Dolor
 
-## Class vs functional components
+## Sit
 
-## React hooks
-
-## Přepsání class komponent do funkcionálních
-
-// TODO nahradit necim jinym
-
-## Routing v reactu
-
-## Rozvoj aplikace o další funkcionalitu
-
-// WTF is this ?
-
-## Napojení na API (Fetch API, Axios, React query)
-
-## Deployment aplikace
-
-## Pokročílá témata
-
-### Statické weby pomocí GatsbyJS
-### Redux, Saga, Context API
-### Progressive Web Apps
-### Accessibility
-### SEO
+## Amet
 
