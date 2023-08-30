@@ -15,9 +15,9 @@ nav_order: 1
 
 ---
 
-## ES 2015 a pokročilý javaascript
+## ES 2015 a pokročilý Javascript
 
-## NodeJS, Git
+## NodeJS, Typescript, Git
 
 ## Úvod do reactu, komponenty
 
