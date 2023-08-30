@@ -1,10 +1,10 @@
 ---
-title: "ES 2015 a pokročilý Javascript"
+title: "NodeJS, Typescript, Git"
 layout: home
-nav_order: 1
+nav_order: 2
 ---
 
-# ES 2015 a pokročilý Javascript
+# NodeJS, Typescript, Git
 {: .no_toc }
 
 ## Table of contents
@@ -23,5 +23,5 @@ nav_order: 1
 
 ## Sit
 
-## Amet
+## Amet\
 

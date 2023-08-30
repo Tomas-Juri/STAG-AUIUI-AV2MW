@@ -25,7 +25,7 @@ This repository contains the following:
 
 ## NodeJS, Typescript, Git
 
-## Úvod do reactu, komponenty
+## Úvod do reactu a komponenty
 
 ## Class vs functional components
 
